@@ -1,0 +1,13 @@
+## A bit racey
+<br>
+This is a simple 2D game that maked with pygame library
+<br>
+for run it:<br>
+<ul>
+	<li>
+		pip install pygame
+	</li>
+	<li>
+		python3
+	</li>
+</ul>
